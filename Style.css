@@ -1,0 +1,27 @@
+h1 {
+color:blue;
+font-family:helvetica;
+background-color: white;
+padding: 50px
+}
+
+p {
+color:green;
+background-color: white;
+}
+
+h2{
+color:khaki;
+font-family:helvetica;
+}
+
+body {
+background-color:purple;
+}
+
+img {
+border: 5px dotted red;
+width:75%;
+height: 75%;
+margin-left: 100px
+}
